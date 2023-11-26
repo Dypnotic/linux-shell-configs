@@ -1,7 +1,9 @@
 # Ignore everything
 *
 
+
 # Except
 !.gitignore
 !.zshrc
 !.tmux.conf
+!.config/starship.toml
